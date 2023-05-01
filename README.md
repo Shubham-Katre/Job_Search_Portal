@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️JOB SEARCH PORTAL</h1>
+<h1> JOB SEARCH PORTAL</h1>
 </center>
 <center>
 <a href="Java url">
@@ -90,10 +90,4 @@ This endpoint makes a call to method in JobService class which is connected to d
 
 We have used CrudRepository as a database to implement CRUD Operations.
 
----
-
-## 📝Project Summary
-
-In this job search portal project, I have used CrudRepositoryThru all Maping i.e. @PutMapping , @GateMapping , @DeleteMapping all for for search and update , delete.  In this project user can search job through description and title and we can also update the job.  We can also delete the job.  All logic is written in this project.  You can easily use everything.
-
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
+--
